@@ -1,0 +1,2 @@
+# JplAutoRenew
+This provides a way to auto-renew library materials that are checked out from the Jacksonville Public Library system.  Notifications are generated during each attempt to inform the user of successful renewals and materials that due.
